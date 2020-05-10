@@ -1,0 +1,11 @@
+C:\Users\Eduardo\source\repos\Funções_Sintaxe\Funções_Sintaxe\bin\Debug\netcoreapp2.1\Funções_Sintaxe.deps.json
+C:\Users\Eduardo\source\repos\Funções_Sintaxe\Funções_Sintaxe\bin\Debug\netcoreapp2.1\Funções_Sintaxe.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Funções_Sintaxe\Funções_Sintaxe\bin\Debug\netcoreapp2.1\Funções_Sintaxe.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Funções_Sintaxe\Funções_Sintaxe\bin\Debug\netcoreapp2.1\Funções_Sintaxe.dll
+C:\Users\Eduardo\source\repos\Funções_Sintaxe\Funções_Sintaxe\bin\Debug\netcoreapp2.1\Funções_Sintaxe.pdb
+C:\Users\Eduardo\source\repos\Funções_Sintaxe\Funções_Sintaxe\obj\Debug\netcoreapp2.1\Funções_Sintaxe.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Funções_Sintaxe\Funções_Sintaxe\obj\Debug\netcoreapp2.1\Funções_Sintaxe.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Funções_Sintaxe\Funções_Sintaxe\obj\Debug\netcoreapp2.1\Funções_Sintaxe.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Funções_Sintaxe\Funções_Sintaxe\obj\Debug\netcoreapp2.1\Funções_Sintaxe.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Funções_Sintaxe\Funções_Sintaxe\obj\Debug\netcoreapp2.1\Funções_Sintaxe.dll
+C:\Users\Eduardo\source\repos\Funções_Sintaxe\Funções_Sintaxe\obj\Debug\netcoreapp2.1\Funções_Sintaxe.pdb

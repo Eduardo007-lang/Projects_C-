@@ -1,0 +1,11 @@
+C:\Users\Eduardo\source\repos\Exercico5\Exercico5\bin\Debug\netcoreapp2.1\Exercico5.deps.json
+C:\Users\Eduardo\source\repos\Exercico5\Exercico5\bin\Debug\netcoreapp2.1\Exercico5.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Exercico5\Exercico5\bin\Debug\netcoreapp2.1\Exercico5.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Exercico5\Exercico5\bin\Debug\netcoreapp2.1\Exercico5.dll
+C:\Users\Eduardo\source\repos\Exercico5\Exercico5\bin\Debug\netcoreapp2.1\Exercico5.pdb
+C:\Users\Eduardo\source\repos\Exercico5\Exercico5\obj\Debug\netcoreapp2.1\Exercico5.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Exercico5\Exercico5\obj\Debug\netcoreapp2.1\Exercico5.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Exercico5\Exercico5\obj\Debug\netcoreapp2.1\Exercico5.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Exercico5\Exercico5\obj\Debug\netcoreapp2.1\Exercico5.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Exercico5\Exercico5\obj\Debug\netcoreapp2.1\Exercico5.dll
+C:\Users\Eduardo\source\repos\Exercico5\Exercico5\obj\Debug\netcoreapp2.1\Exercico5.pdb

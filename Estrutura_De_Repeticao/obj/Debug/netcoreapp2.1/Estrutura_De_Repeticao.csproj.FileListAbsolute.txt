@@ -1,0 +1,11 @@
+C:\Users\Eduardo\source\repos\Estrutura_De_Repeticao\Estrutura_De_Repeticao\bin\Debug\netcoreapp2.1\Estrutura_De_Repeticao.deps.json
+C:\Users\Eduardo\source\repos\Estrutura_De_Repeticao\Estrutura_De_Repeticao\bin\Debug\netcoreapp2.1\Estrutura_De_Repeticao.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Estrutura_De_Repeticao\Estrutura_De_Repeticao\bin\Debug\netcoreapp2.1\Estrutura_De_Repeticao.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Estrutura_De_Repeticao\Estrutura_De_Repeticao\bin\Debug\netcoreapp2.1\Estrutura_De_Repeticao.dll
+C:\Users\Eduardo\source\repos\Estrutura_De_Repeticao\Estrutura_De_Repeticao\bin\Debug\netcoreapp2.1\Estrutura_De_Repeticao.pdb
+C:\Users\Eduardo\source\repos\Estrutura_De_Repeticao\Estrutura_De_Repeticao\obj\Debug\netcoreapp2.1\Estrutura_De_Repeticao.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Estrutura_De_Repeticao\Estrutura_De_Repeticao\obj\Debug\netcoreapp2.1\Estrutura_De_Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Estrutura_De_Repeticao\Estrutura_De_Repeticao\obj\Debug\netcoreapp2.1\Estrutura_De_Repeticao.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Estrutura_De_Repeticao\Estrutura_De_Repeticao\obj\Debug\netcoreapp2.1\Estrutura_De_Repeticao.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Estrutura_De_Repeticao\Estrutura_De_Repeticao\obj\Debug\netcoreapp2.1\Estrutura_De_Repeticao.dll
+C:\Users\Eduardo\source\repos\Estrutura_De_Repeticao\Estrutura_De_Repeticao\obj\Debug\netcoreapp2.1\Estrutura_De_Repeticao.pdb

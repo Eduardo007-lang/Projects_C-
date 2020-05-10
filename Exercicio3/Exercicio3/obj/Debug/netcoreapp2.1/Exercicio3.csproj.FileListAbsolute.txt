@@ -1,0 +1,11 @@
+C:\Users\Eduardo\source\repos\Exercicio3\Exercicio3\bin\Debug\netcoreapp2.1\Exercicio3.deps.json
+C:\Users\Eduardo\source\repos\Exercicio3\Exercicio3\bin\Debug\netcoreapp2.1\Exercicio3.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Exercicio3\Exercicio3\bin\Debug\netcoreapp2.1\Exercicio3.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Exercicio3\Exercicio3\bin\Debug\netcoreapp2.1\Exercicio3.dll
+C:\Users\Eduardo\source\repos\Exercicio3\Exercicio3\bin\Debug\netcoreapp2.1\Exercicio3.pdb
+C:\Users\Eduardo\source\repos\Exercicio3\Exercicio3\obj\Debug\netcoreapp2.1\Exercicio3.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Exercicio3\Exercicio3\obj\Debug\netcoreapp2.1\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Exercicio3\Exercicio3\obj\Debug\netcoreapp2.1\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Exercicio3\Exercicio3\obj\Debug\netcoreapp2.1\Exercicio3.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Exercicio3\Exercicio3\obj\Debug\netcoreapp2.1\Exercicio3.dll
+C:\Users\Eduardo\source\repos\Exercicio3\Exercicio3\obj\Debug\netcoreapp2.1\Exercicio3.pdb
